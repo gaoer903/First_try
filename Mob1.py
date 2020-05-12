@@ -1,0 +1,1 @@
+print("If everyone is not special,maybe you can be what you want to be!")
